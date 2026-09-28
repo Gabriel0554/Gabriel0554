@@ -11,9 +11,9 @@ Sou estudante de ADS na UDF e estou dando meus primeiros passos na área de tecn
 
 🐍 Estudando Python, Engenharia de Prompt e aplicações em IA.
 
-🎨 Curto UX/UI Design e gosto de pensar na experiência do usuário.
+🎨 Preferências em UX/UI Design, gosto de pensar na experiência do usuário.
 
-⚙️ Tenho mais interesse em desenvolvimento backend.
+⚙️ Tenho mais interesse em desenvolvimento front/backend.
 
 🚀 Sempre aprendendo, motivado a crescer profissionalmente, contribuindo com projetos e pronto para novos desafios!
 
